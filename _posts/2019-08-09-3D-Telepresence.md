@@ -4,10 +4,7 @@ title: "Project Overview: 3D Telepresence"
 date: 2019-08-09
 ---
 
-
-# 3D Telepresence Framework
-
-### Basic Information
+TeleCP: A 3D Telepresence Software Framework Supporting High-Level Co-Presence
 
 **Time**: April-September, 2018
 

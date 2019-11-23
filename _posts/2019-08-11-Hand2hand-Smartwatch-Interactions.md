@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Project Overview: Hand-to-hand gesture exploration"
+title: "Project Overview: Hand-to-hand smartwatch interaction"
 date: 2019-08-11
 ---
 
-# Designing and Evaluating Hand-to-Hand Gestures with Dual Commodity Wrist-Worn Devices
-
-### Basic Information
+Designing and Evaluating Hand-to-Hand Gestures with Dual Commodity Wrist-Worn Devices
 
 **Time**
 October, 2018 - November, 2019
