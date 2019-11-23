@@ -1,5 +1,5 @@
 ---
 layout: post
-title: "Bingjian(Alex) Huang Launches Site"
+title: "Project Overview: Hand-to-hand gesture exploration"
 date: 2019-08-09
 ---
