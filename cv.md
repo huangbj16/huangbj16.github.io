@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: CV
 tagline: A few more words about this theme
 permalink: /cv.html
-ref: about
+ref: cv
 order: 0
 ---
 
