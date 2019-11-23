@@ -19,7 +19,7 @@ theme: # leave it empty
 author: Bingjian Huang
 image: /thumbnail-jumbo.png
 twitter:
-  username: huangbj16
+  username: bingjian_huang
 
 plugins:
   - jekyll-target-blank
