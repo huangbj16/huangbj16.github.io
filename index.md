@@ -8,10 +8,16 @@
 layout: home
 ---
 
-Cayman Blog Theme is a clean, responsive blogging theme for Jekyll. It is inspired by the Cayman Theme for Github Pages, which can be greatly used for single projects but not as blogging platform.
+#### Hi there, I'm Bingjian(Alex) Huang.
 
-This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
+Currently I'm a junior student studying **Computer Science** at **Tsinghua University**, Beijing, China.
 
-Have a look at the Github page for more information.
+I have great interests in understanding how people interact with their daily-life devices.
+And I am passionate about using my technical skills to improve the interaction process.
+That's why I step into the field of Human-Computer Interaction(HCI), also known as Human-Centered Design(HCD).
 
-You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
+I have been doing HCI research since April, 2018 when I joined the Key Laboratary of Pervasive Computing (Advisor: Prof. Yuanchun Shi, Prof. Chun Yu) at Tsinghua University. 
+Since then, I have participated in three different research projects related to Virtual Reality(VR), Telepresence, Wearable devices, gesture design and so on.
+
+In 2019 summer, I worked as a summer intern in Inteco Lab (Advisor: Prof. Mark W. Newman) at School of Information, University of Michigan, Ann Arbor.
+I collaborated with PhD candidate Xinghui Yan on a research project about low-burden in-situ self-reporting.
