@@ -25,6 +25,10 @@
   padding: 2px 16px;
 }
 
+.projectimg {
+    width: 100%;
+}
+
 .projectlink {
     font-size: 1em;
 }
