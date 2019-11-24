@@ -1,0 +1,29 @@
+.column {
+    float: left;
+    padding: 10px;
+}
+  
+.left {
+  width: 20%;
+}
+  
+.right {
+  width: 50%;
+}
+  
+.row {
+    background-color: antiquewhite;
+    height: 100%;
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.avatar {
+    padding: 20%;
+    width: 50%;
+    height: 50%;
+}

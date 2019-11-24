@@ -1,0 +1,25 @@
+---
+layout: default
+title: Alex's portfolio
+---
+
+<link rel="stylesheet" type="text/css" href="/css/portfolio.css">
+
+<h1>{{ page.title }}</h1>
+
+<div class="grid-container">
+    {% for post in site.posts %}
+    <div class="grid-item">
+        <div class="card">
+            <a href="{{ post.url }}" title="{{ post.title }}" class="projectlink">
+                <img src="{{ post.imgurl }}">
+                <div class="container">
+                    <p>{{ post.title }}</p>
+                    <span>{{ post.date | date_to_string }}</span>
+                </div>
+            </a>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+    <!-- <li><span>{{ post.date | date_to_string }}</span> » </li> -->

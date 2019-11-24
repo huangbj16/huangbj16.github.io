@@ -2,9 +2,14 @@
 layout: post
 title: "Project Overview: 3D Telepresence"
 date: 2019-08-09
+imgurl: "../telepresence.jpg"
 ---
 
-TeleCP: A 3D Telepresence Software Framework Supporting High-Level Co-Presence
+
+
+# 3D Telepresence Framework
+
+### Basic Information
 
 **Time**: April-September, 2018
 
