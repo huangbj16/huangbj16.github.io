@@ -1,16 +1,25 @@
 body {
-    margin: 60px auto;
+    margin: 0 auto;
     width: 70%;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    background-color: chocolate;
+}
+div {
+    box-sizing: border-box;
+}
+div.divcolor {
+    padding: 50px;
+    background-color: white;
 }
 nav ul, footer ul {
+    margin: 0px;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
     list-style: none;
     font-weight: bold;
 }
 nav ul li, footer ul li {
+    padding: 20px;
     display: inline;
-    margin-right: 20px;
 }
 a {
     text-decoration: none;
