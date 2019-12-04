@@ -1,3 +1,7 @@
 p.date {
     color: brown;
 }
+
+p.codeblock {
+    background-color: lightgrey;
+}

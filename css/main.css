@@ -1,14 +1,18 @@
 body {
     margin: 0 auto;
-    width: 70%;
+    width: 880px;
+    height: 100%;
+    min-height: 720px;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    background-color: chocolate;
+    background-color: wheat;
 }
 div {
     box-sizing: border-box;
 }
 div.divcolor {
     padding: 50px;
+    height: 100%;
+    min-height: 720px;
     background-color: white;
 }
 nav ul, footer ul {
