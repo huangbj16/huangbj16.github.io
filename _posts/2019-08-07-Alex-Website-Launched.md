@@ -3,6 +3,7 @@ layout: post
 title: "Bingjian(Alex) Huang Launches Site"
 date: 2019-08-07
 imgurl: "../images/rocket.jpg"
+prjurl: "https://github.com/huangbj16/huangbj16.github.io"
 ---
 
 Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.

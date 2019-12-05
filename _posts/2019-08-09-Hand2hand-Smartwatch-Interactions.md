@@ -3,9 +3,10 @@ layout: post
 title: "Project Overview: Hand-to-hand gesture exploration"
 date: 2019-08-09
 imgurl: "../hand2hand.png"
+prjurl: "https://github.com/huangbj16/hand2hand_applewatch_processing"
 ---
 
-# Designing and Evaluating Hand-to-Hand Gestures with Dual Commodity Wrist-Worn Devices
+## Designing and Evaluating Hand-to-Hand Gestures with Dual Commodity Wrist-Worn Devices
 
 ### Basic Information
 
