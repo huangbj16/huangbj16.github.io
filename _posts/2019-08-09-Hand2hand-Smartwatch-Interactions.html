@@ -2,7 +2,7 @@
 layout: post
 title: "Project Overview: Hand-to-hand gesture exploration"
 date: 2019-08-09
-imgurl: "../hand2hand.png"
+imgurl: "../images/hand2hand.png"
 prjurl: "https://github.com/huangbj16/hand2hand_applewatch_processing"
 ---
 
@@ -49,9 +49,13 @@ prjurl: "https://github.com/huangbj16/hand2hand_applewatch_processing"
     </p>
     <h4>Gesture Vocabulary</h4>
     <p>
-        Based on interview results, we built gesture vocabulary of 56 unique gestures.
+        Based on interview results, we considered the following contact areas on the hand and fist.
+    </p>
+    <center><img src="../images/area_fist_hand.png" width="50%"></center>
+    <p>
+        We built gesture vocabulary of 56 unique gestures.
         Then we further surveyed 24 people online.
-        They were asked to rate gestures based on four metrics(Usability, Memorability, Social Acceptance, Disambiguity).
+        They were asked to rate gestures based on four metrics(<em>Usability, Memorability, Social Acceptance, Disambiguity</em>).
         The survey results indicated what gestures were appropriate in certain scenarios.
         We built gesture set for three scenarios: sitting, walking, and running.
         In the sitting scenario, the gesture set contains 10 tap and swipe gestures.
@@ -77,11 +81,14 @@ prjurl: "https://github.com/huangbj16/hand2hand_applewatch_processing"
     <h4>Real Context Evaluation</h4>
     <p>
         Based on data analysis, we further embeded the SVM model into a real-time system and tested it in daily scenarios.
-        In real scenarios, each gesutre was mapped to a context-based function.
+        In real scenarios, each gesture was mapped to a context-based function.
         For example, FistDown-Tap-Palm was mapped to "Skip to the next song".
         Our hardware includes two apple watch series 4, an iphone X, and a pair Huawei FreeBuds.
         In each scenario, user first heard commands from the earphone, then recalled the corresponding gesture, performed the gesture, and waited for earphone response.
         If there was no response, user would perform the gesture again.
+    </p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/QNaCeJebNsc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p>
         We recoreded completion time, success rate, and reasons for failed trials.
         We proved that the gesture sets were usable in daily scenarios and users were pleased with the experience.
     </p>
