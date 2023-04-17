@@ -18,7 +18,7 @@ function App() {
 
     <section id='home' className='min-h-screen text-center mt-4 flex flex-col justify-center '>
         <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-56 h-56 relative overflow-hidden md:h-96 md:w-96 mb-2">
-          <img src='/profile.jpg' layout="fill" objectFit="cover" />
+          <img src='./images/profile.jpg' layout="fill" objectFit="cover" />
         </div>
         <h1 className='text-3xl mt-10 md:text-5xl font-medium text-teal-500'>Bingjian Huang</h1>
         <h3 className='text-xl mt-10 md:text-2xl'>Researcher, HCI, XR, Haptics, Electronics</h3>

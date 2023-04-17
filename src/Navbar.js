@@ -8,7 +8,7 @@ export default function Navbar() {
             <ul className="flex items-center">
                 <Link className="px-4 py-2 bg-gradient-to-r from-cyan-500 text- to-teal-500 bg-blue-300 rounded-md ml-8 text-white" to="/aboutme">About Me</Link>
                 <Link className="px-4 py-2 bg-gradient-to-r from-cyan-500 text- to-teal-500 bg-blue-300 rounded-md ml-8 text-white" to="/portfolio">Portfolio</Link>
-                <a className="px-4 py-2 bg-gradient-to-r from-cyan-500 text- to-teal-500 bg-blue-300 rounded-md ml-8 text-white" href="https://huangbj16.github.io/cv/cv_BingjianHuang.pdf">CV</a>
+                <a className="px-4 py-2 bg-gradient-to-r from-cyan-500 text- to-teal-500 bg-blue-300 rounded-md ml-8 text-white" href="./cv_BingjianHuang.pdf">CV</a>
                 <Link className="px-4 py-2 bg-gradient-to-r from-cyan-500 text- to-teal-500 bg-blue-300 rounded-md ml-8 text-white" to="/ideas">Ideas</Link>
             </ul>
         </nav>
