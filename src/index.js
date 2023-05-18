@@ -11,6 +11,8 @@ import Project_Hand2hand from './projects/Project_Hand2hand';
 import Project_SelfReport from './projects/Project_SelfReport';
 import Project_AirTyping from './projects/Project_AirTyping';
 import Project_3DTelepresence from './projects/Project_3DTelepresence';
+import Ideas from './Ideas'
+import Article_0_haptics from './articles/Article_0_haptics';
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 
 function Init(){
@@ -26,6 +28,8 @@ function Init(){
         <Route path='/project_selfreport' element={<Project_SelfReport />} />
         <Route path='/project_airtyping' element={<Project_AirTyping />} />
         <Route path='/project_3dtelepresence' element={<Project_3DTelepresence />} />
+        <Route path="/ideas" element={<Ideas />} />
+        <Route path="/Article_0_haptics" element={<Article_0_haptics />} />
       </Routes>
     </BrowserRouter>
   );
