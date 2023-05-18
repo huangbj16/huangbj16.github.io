@@ -1,6 +1,16 @@
-# Personal Portfolio Website
-This project is one of the results of my journey learning frontend with react.
+# Personal Website
 
+to run locally, use 
+```
+npm start
+```
+to build, use
+```
+npm run build
+```
+to deploy on github, use
+```
+npm run deploy
+```
 
-# Preview
-![screencapture-localhost-3000-2022-12-20-20_12_19](https://user-images.githubusercontent.com/73756341/208675550-16881030-8ac9-451f-9cbb-85ebc9ffca97.png)
+to add a new article, create a new page in `articles/`, import and setup the page in `index.js`, and add a link to the page in `ideas.js`.
